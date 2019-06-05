@@ -1,2 +1,4 @@
-User-agent: *
+User-agent: AhrefsBot
+User-agent: BLEXBot
+User-agent: MJ12bot
 Disallow: /
