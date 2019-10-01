@@ -8,5 +8,6 @@ Thumbs.db:encryptable
 desktop.ini
 ehthumbs.db
 
-# Jekyll build directory
-/_site/
+# Jekyll directories
+.jekyll-cache/
+_site/
