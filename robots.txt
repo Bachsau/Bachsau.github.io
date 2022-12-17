@@ -1,22 +1,11 @@
 User-agent: AhrefsBot
-Disallow: /
-
 User-agent: BLEXBot
-Disallow: /
-
 User-agent: dotbot
-Disallow: /
-
 User-agent: MJ12bot
-Disallow: /
-
 User-agent: PetalBot
-Disallow: /
-
 User-agent: Qwantify
-Disallow: /
-
 User-agent: SemrushBot
+User-agent: Webwiki
 Disallow: /
 
 User-agent: *
