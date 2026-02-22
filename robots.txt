@@ -1,10 +1,12 @@
 User-agent: AhrefsBot
 User-agent: BLEXBot
+User-agent: barkrowler
 User-agent: dotbot
 User-agent: MJ12bot
 User-agent: PetalBot
 User-agent: Qwantify
 User-agent: SemrushBot
+User-agent: serpstatbot
 User-agent: Webwiki
 Disallow: /
 
